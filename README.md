@@ -1,6 +1,6 @@
 # my-personal-website
 
-> Mey site pessoal construido com vuetify pwa
+> Meu site pessoal construido com vuetify pwa
 
 ## Build Setup
 
